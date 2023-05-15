@@ -3,7 +3,7 @@
   margin-top: 8%;
   width: 333px;
   height: 270px;
- background-color: rgb(205, 221, 221);
+ background-color: rgb(179, 201, 201);
   border-radius: 2%;
 }
 .email{
@@ -21,8 +21,8 @@
 .button{
   height: 30px;
   text-shadow:
-  1px 1px 1px rgb(85, 87, 190),
-  -2px 2px 2px rgb(97, 63, 177);
+  1px 1px 1px rgb(35, 36, 61),
+  -2px 2px 2px rgb(44, 35, 66);
   color:black;
   font-weight:bolder;
   font-size:medium;
@@ -30,7 +30,7 @@
   margin-left: 177px;
   margin-top: 20px;
   width: 111px;
-  background-color: rgb(10, 141, 248);
+  background-color: rgb(18, 151, 25);
   border-radius: 100px;
 
 }
