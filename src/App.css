@@ -1,0 +1,46 @@
+.registr{
+  margin-left: 12%;
+  margin-top: 8%;
+  width: 333px;
+  height: 270px;
+ background-color: rgb(205, 221, 221);
+  border-radius: 2%;
+}
+.email{
+  width: 250px;
+  height: 18px;
+  border-radius: 7px;
+  margin-left: 33px;
+}
+.password{
+  width: 250px;
+  height: 18px;
+  border-radius: 7px;
+  margin-left: 33px;
+}
+.button{
+  height: 30px;
+  text-shadow:
+  1px 1px 1px rgb(85, 87, 190),
+  -2px 2px 2px rgb(97, 63, 177);
+  color:black;
+  font-weight:bolder;
+  font-size:medium;
+  font-style: italic;
+  margin-left: 177px;
+  margin-top: 20px;
+  width: 111px;
+  background-color: rgb(10, 141, 248);
+  border-radius: 100px;
+
+}
+.taitl{
+  padding-top: 30px;
+  text-align: center;
+  font-style: italic;
+  text-shadow:
+    1px 1px 1px rgb(161, 82, 82),
+    -2px 2px 2px rgb(168, 74, 74);
+  color: rgb(29, 27, 27);
+  transition: all .8s;
+}
